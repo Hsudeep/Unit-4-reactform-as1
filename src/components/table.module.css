@@ -1,0 +1,19 @@
+.tableBlock table{
+    width: 100%;
+    /* border: 1px solid; */
+
+}
+
+/* .theaaad thead tr th{
+    border: 1px solid;
+    width: 100%;
+    gap: 50%;
+} */
+.tboody{
+    border: 1px solid;
+}
+.tr{
+    color:red;
+    background-color: blueviolet;
+    border: 1px solid black;
+}
